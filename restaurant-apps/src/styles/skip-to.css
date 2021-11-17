@@ -1,0 +1,13 @@
+.skip-to {
+    position: absolute;
+    top: -40px;
+    left: 0;
+    background-color: rgb(255, 72, 0);
+    color: white;
+    padding: 8px;
+    z-index: 100;
+ }
+
+ .skip-to:focus {
+    top: 0;
+ }
